@@ -3,4 +3,4 @@
 
 Slice Cube es una pagina web donde se muestra un cubo en forma de imagen. Cada imagen esta dividida en 3 partes iguales y el cubo tiene una pequeña animacion entre cada imagen.
 
-Puedes ver un demo de la pagina aqui: https://slice-image-cube.vercel.app/
+Puedes ver un demo de la pagina aqui: https://nicodibarboure.github.io/Slice-Image-Cube-main/
